@@ -1,4 +1,5 @@
 RESOLUSI SOLKHAN
--menguasai HTML dan CSS
--menguasai JS language
--dapat membuat website yang interaktif
+-Menguasai HTML dan CSS
+-Menguasai JS language
+-Dapat membuat website yang interaktif
+-Dapat membuat desain web yang modern

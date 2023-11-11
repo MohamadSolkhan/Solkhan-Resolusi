@@ -1,5 +1,6 @@
 RESOLUSI SOLKHAN
 -Menguasai HTML dan CSS
+-Menguasai Framework Bootstrap
 -Menguasai JS language
 -Dapat membuat website yang interaktif
 -Dapat membuat desain web yang modern
